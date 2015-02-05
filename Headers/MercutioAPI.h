@@ -1,0 +1,1 @@
+#ifndef __MERCUTIOAPI__#define __MERCUTIOAPI__pascal long PowerMenuKey(long theMessage, short theModifiers, MenuHandle hMenu);#endif

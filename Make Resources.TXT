@@ -1,0 +1,1 @@
+directory Development:Projects:JPEGView:JPEGViewbuildprogram resources
