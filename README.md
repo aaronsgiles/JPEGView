@@ -4,6 +4,12 @@ These are the final JPEGView 3.3 for Macintosh sources, dating from back around 
 
 Owing to many files involved having resource forks that have been lost over time, what's included here are all the files that had actual data. If anyone attempts to build directly from the sources, you will need to create your own project files and recreate some of the resources.
 
+Overview
+========
+In simplest terms, JPEGView is a fast, flexible postcardware utility for the Macintosh designed to provide simple, high-quality viewing of PICT, JFIF, GIF, TIFF, BMP, MacPaint, and Startup Screen images.
+
+JPEGView is not an all-purpose format conversion utility; however, it does support a save function to allow QuickTime previews and custom color icons to be added to images of any format. It can also perform the very simple translation between JPEG-compressed PICT files and the standard JPEG interchange format JFIF.
+
 License
 =======
 Copyright (c) 2015, Aaron Giles
